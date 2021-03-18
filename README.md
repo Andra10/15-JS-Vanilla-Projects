@@ -8,4 +8,4 @@ Fitfteen simple projects to improve my skills in coding with JS
 
 ####
 Live Demo: 
-> https://raw.githack.com/Andra10/15-JS-Vanilla-Projects/main/Color-Flipper/index.html
+> https://raw.githack.com/Andra10/15-JS-Vanilla-Projects/main/ColorFlipper/index.html
