@@ -19,3 +19,19 @@ Live Demo:
 ####
 Live Demo: 
 > https://raw.githack.com/Andra10/SimpleCounter/main/Counter/index.html
+
+## 2- Review
+
+#### Usage:
+- Click < button if you want to view the previous person
+- Click > button if you want to view the next person
+- Click "Surprise Me" to view random person
+
+####
+Live Demo: 
+> https://raw.githack.com/Andra10/15-JS-Vanilla-Projects/main/Review/index.html
+
+
+
+
+
