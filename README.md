@@ -1,5 +1,5 @@
-# 15 JavaScript Vanilla Projects
-Fitfteen simple projects to improve my skills in coding with JS
+# JavaScript Vanilla Projects
+Simple projects to improve my skills in coding with JS
 
 ## 1- Color Flipper
 
