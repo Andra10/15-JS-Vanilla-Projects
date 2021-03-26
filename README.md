@@ -20,7 +20,7 @@ Live Demo:
 Live Demo: 
 > https://raw.githack.com/Andra10/SimpleCounter/main/Counter/index.html
 
-## 2- Review
+## 3- Review
 
 #### Usage:
 - Click < button if you want to view the previous person
